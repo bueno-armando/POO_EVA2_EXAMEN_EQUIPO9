@@ -1,6 +1,6 @@
 # Exámen Práctico - Evaluación 2
 ## Programación Orientada a Objetos 9AM
-### Equipo 9: Ice Cream Sandwich:
+### Equipo 9 - Ice Cream Sandwich:
 ```sh
 Armando Sebastián Bueno Núñez
 Paola Gallegos Olmeda
